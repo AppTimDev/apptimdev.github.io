@@ -1,0 +1,31 @@
+/*============ CSS ROOT VARIABLES ============*/
+:root {
+    /*============ color ============*/    
+    --color-transparent: rgba(255, 255, 255, 0.2);
+    --color-dark-sea-green: #11875d;
+    --color-light-sea-green: #98f6b0;
+    --color-dodgerblue: #1E90FF;
+
+    --color-body: hsl(0, 0%, 99%);
+    --color-text: hsl(0, 0%, 40%);
+    --color-copyright: rgba(252,249,239,1);
+    --color-container : rgba(239,240,227, 1);
+    --color-container-item : rgba(252,249,239,1);
+    --color-tag-outer: rgb(90, 92, 83);
+    --color-tag-inner: rgba(217,234,215,1);
+    --color-tag-text: rgb(90, 92, 83);
+    
+
+    /*============ Font family ============*/    
+    --ff-body: 'Helvetica', 'Arial', sans-serif;
+
+    /*============ background ============*/
+    --bg-color-scrollbar: hsl(0, 0%, 74%);;
+    --bg-color-scrollbar-thumb: var(--color-dark-sea-green);
+    --bg-color-footer: rgba(35, 142, 204, 1);
+    --bg-color-copyright: rgba(35, 142, 204, 1);
+    --bg-header: linear-gradient(#CCFFCC, #CCCCFF);
+    --bg-color-card-description: rgba(246,243,212,1);
+
+
+}
