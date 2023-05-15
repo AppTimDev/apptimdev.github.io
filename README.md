@@ -3,9 +3,14 @@
 
 ---
 
+## Project Setup
+https://github.com/AppTimDev/ProjectPnpmGulp
+
+---
+
 ## Links
 Visit my home page
-<https://apptimdev.github.io//>
+<https://apptimdev.github.io>
 
 Visit my home page (React)
-<https://apptimdev.github.io/react/>
+<https://apptimdev.github.io/react>
